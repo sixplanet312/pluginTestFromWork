@@ -8,7 +8,7 @@ public final class TestPluginFromWork extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
 
-
+        System.out.println("Plugin loaded and running");
         // Test plugin file from work.
 
     }
