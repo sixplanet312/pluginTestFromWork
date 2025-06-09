@@ -1,0 +1,4 @@
+name: testPluginFromWork
+version: '1.0-SNAPSHOT'
+main: org.sixplanet.testPluginFromWork.TestPluginFromWork
+api-version: '1.21'
