@@ -1,5 +1,7 @@
-package org.sixplanet.testPluginFromWork;
+package me.sixplanet.testPluginFromWork;
 
+
+// changes made on home machine
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class TestPluginFromWork extends JavaPlugin {
